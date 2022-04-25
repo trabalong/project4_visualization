@@ -12,3 +12,6 @@
 ## Resources:
 #### Transformated datasets from: https://github.com/trabalong/project3_etl
 #### Catalog UFC fighters from: https://www.ufcespanol.com/athletes/all
+
+## History Tableau Link:
+https://public.tableau.com/app/profile/gaspar3635/viz/Libro2ELMEJOR/Historia1#1
